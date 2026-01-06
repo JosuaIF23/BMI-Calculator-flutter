@@ -13,3 +13,15 @@ const kActiveSliderColor = Colors.white;
 const kInactiveColor = Color(0xFF8D8E98);
 const kThumbColor = Color(0xFFEB1555);
 const kOverlayColor = Color(0x1fEB1555);
+const kBigTextStyle = TextStyle(fontWeight: FontWeight.bold, fontSize: 25.0);
+const kTitleTextStyle = TextStyle(fontSize: 50.0, fontWeight: FontWeight.bold);
+
+const kTextStyle = TextStyle(
+  color: Color(0xFF24d876),
+  fontWeight: FontWeight.bold,
+  fontSize: 22.0,
+);
+
+const kBMITextStyle = TextStyle(fontSize: 100.0, fontWeight: FontWeight.bold);
+
+const kBodyTextStyle = TextStyle(fontSize: 22.0);
